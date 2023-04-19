@@ -1,0 +1,27 @@
+{
+  "name": "fastify-v4-json-schema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojisan-toybox/fastify-v4-json-schema.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojisan-toybox/fastify-v4-json-schema/issues"
+  },
+  "homepage": "https://github.com/ojisan-toybox/fastify-v4-json-schema#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@fastify/swagger": "^8.3.1",
+    "@fastify/type-provider-typebox": "^3.1.0",
+    "fastify": "^4.15.0"
+  }
+}
