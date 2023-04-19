@@ -1,0 +1,1 @@
+# fastify-v4-json-schema
